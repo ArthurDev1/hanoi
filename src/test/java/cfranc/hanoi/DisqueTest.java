@@ -5,10 +5,6 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class DisqueTest {
-	
-	Disque dSmall = new Disque(1);
-	Disque dMedium = new Disque(2);
-	Disque dTall = new Disque(3);
 
 	Disque dSmall = new Disque(1);
 	Disque dMedium = new Disque(2);
